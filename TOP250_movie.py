@@ -21,6 +21,7 @@ def get_top250():
             movie = each_movie.a.span.text.strip()
             movie_list.append(movie)
     return movie_list
+
 top250 = get_top250()
 print(top250)
 
