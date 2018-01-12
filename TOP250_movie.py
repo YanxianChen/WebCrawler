@@ -1,3 +1,6 @@
+#抓取豆瓣top250的电影名称
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import requests
 from bs4 import  BeautifulSoup
 
@@ -18,7 +21,6 @@ def get_top250():
             movie = each_movie.a.span.text.strip()
             movie_list.append(movie)
     return movie_list
-
 top250 = get_top250()
 print(top250)
 
