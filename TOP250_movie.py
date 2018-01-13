@@ -1,8 +1,9 @@
-#抓取豆瓣top250的电影名称
+# 抓取豆瓣top250的电影名称
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import requests
-from bs4 import  BeautifulSoup
+from bs4 import BeautifulSoup
+
 
 def get_top250():
     headers = {
@@ -12,17 +13,16 @@ def get_top250():
     movie_list = []
     for i in range(10):
         link = 'https://movie.douban.com/top250?start=' + str(i * 25)
-        response = requests.get(link, headers = headers, timeout = 20)
-        print (str(i+1), '页响应状态码:', response.status_code)
+        response = requests.get(link, headers=headers, timeout=20)
+        print(str(i + 1), '页响应状态码:', response.status_code)
 
         soup = BeautifulSoup(response.text, 'html')
-        div_list = soup.find_all('div', class_ = 'hd')
+        div_list = soup.find_all('div', class_='hd')
         for each_movie in div_list:
             movie = each_movie.a.span.text.strip()
             movie_list.append(movie)
     return movie_list
 
+
 top250 = get_top250()
 print(top250)
-
-

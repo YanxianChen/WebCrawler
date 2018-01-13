@@ -1,0 +1,473 @@
+1515823417711	geckodriver	INFO	geckodriver 0.19.1
+1515823417715	geckodriver	INFO	Listening on 127.0.0.1:58599
+1515823418839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.psHouJlpIHNv"
+1515823423266	Marionette	INFO	Enabled via --marionette
+1515823429539	Marionette	INFO	Listening on port 39217
+1515823429730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515823429788	Marionette	DEBUG	Register listener.js for window 2147483649
+1515823429941	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515823430581	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515823430581	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515823431917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bilibili.com/"
+1515823432799	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bilibili.com/"
+1515823494965	geckodriver	INFO	geckodriver 0.19.1
+1515823494969	geckodriver	INFO	Listening on 127.0.0.1:59011
+1515823496093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CqJhbBIYxKx4"
+1515823496782	Marionette	INFO	Enabled via --marionette
+1515823499575	Marionette	INFO	Listening on port 32875
+1515823499743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515823499824	Marionette	DEBUG	Register listener.js for window 2147483649
+1515823499851	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515823500404	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515823500405	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515823501363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.bilibili.com/"
+1515823503406	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.bilibili.com/"
+1515824508989	geckodriver	INFO	geckodriver 0.19.1
+1515824508993	geckodriver	INFO	Listening on 127.0.0.1:57025
+1515824510090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pp31toDthr46"
+1515824510725	Marionette	INFO	Enabled via --marionette
+1515824513533	Marionette	INFO	Listening on port 34435
+1515824513729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515824513795	Marionette	DEBUG	Register listener.js for window 2147483649
+1515824513824	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515824514470	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515824514471	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515824514978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515824522005	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515824652866	geckodriver	INFO	geckodriver 0.19.1
+1515824652869	geckodriver	INFO	Listening on 127.0.0.1:57383
+1515824653965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ksJQyjLXdBkx"
+1515824654688	Marionette	INFO	Enabled via --marionette
+1515824657585	Marionette	INFO	Listening on port 34953
+1515824657735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515824657794	Marionette	DEBUG	Register listener.js for window 2147483649
+1515824657814	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515824658489	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515824658490	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515824659026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515824667659	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515824716874	geckodriver	INFO	geckodriver 0.19.1
+1515824716877	geckodriver	INFO	Listening on 127.0.0.1:42199
+1515824717981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6lz6HG4l1yyw"
+1515824718774	Marionette	INFO	Enabled via --marionette
+1515824721861	Marionette	INFO	Listening on port 36761
+1515824721899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515824721980	Marionette	DEBUG	Register listener.js for window 2147483649
+1515824722006	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515824722608	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515824722609	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515824723091	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515824728125	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515826604050	geckodriver	INFO	geckodriver 0.19.1
+1515826604053	geckodriver	INFO	Listening on 127.0.0.1:46381
+1515826605170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.11eodwLNeuIx"
+1515826605900	Marionette	INFO	Enabled via --marionette
+1515826608882	Marionette	INFO	Listening on port 40277
+1515826609089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515826609157	Marionette	DEBUG	Register listener.js for window 2147483649
+1515826609179	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515826609723	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515826609723	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515826610190	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515826615660	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515826750751	geckodriver	INFO	geckodriver 0.19.1
+1515826750754	geckodriver	INFO	Listening on 127.0.0.1:59533
+1515826751858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vUrJWIw0t9H0"
+1515826752521	Marionette	INFO	Enabled via --marionette
+1515826755646	Marionette	INFO	Listening on port 45271
+1515826755673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515826755736	Marionette	DEBUG	Register listener.js for window 2147483649
+1515826755775	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515826756845	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515826756846	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515826757404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515826767748	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515826867954	geckodriver	INFO	geckodriver 0.19.1
+1515826867958	geckodriver	INFO	Listening on 127.0.0.1:43269
+1515826869054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SMURhZAAlD6A"
+1515826869802	Marionette	INFO	Enabled via --marionette
+1515826872712	Marionette	INFO	Listening on port 42395
+1515826872913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515826872981	Marionette	DEBUG	Register listener.js for window 2147483649
+1515826873004	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515826873571	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515826873571	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515826874019	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515826879073	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515826925751	geckodriver	INFO	geckodriver 0.19.1
+1515826925755	geckodriver	INFO	Listening on 127.0.0.1:50911
+1515826926855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.M5Vm13rgRS7Q"
+1515826927564	Marionette	INFO	Enabled via --marionette
+1515826930357	Marionette	INFO	Listening on port 42481
+1515826930380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515826930458	Marionette	DEBUG	Register listener.js for window 2147483649
+1515826930588	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515826931137	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515826931137	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515826931581	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515826936672	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515829715086	geckodriver	INFO	geckodriver 0.19.1
+1515829715090	geckodriver	INFO	Listening on 127.0.0.1:49819
+1515829716195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WCGojguOjmrB"
+1515829716905	Marionette	INFO	Enabled via --marionette
+1515829719764	Marionette	INFO	Listening on port 36125
+1515829719946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515829720033	Marionette	DEBUG	Register listener.js for window 2147483649
+1515829720065	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515829720630	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515829720630	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515829721146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515829728150	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515829728441	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829729090	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829729693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829730366	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829731047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829731635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829732206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829732785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829733370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829733945	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829913970	geckodriver	INFO	geckodriver 0.19.1
+1515829913973	geckodriver	INFO	Listening on 127.0.0.1:58725
+1515829915099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hoyuuFEpVLcK"
+1515829915868	Marionette	INFO	Enabled via --marionette
+1515829918977	Marionette	INFO	Listening on port 46099
+1515829919015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515829919081	Marionette	DEBUG	Register listener.js for window 2147483649
+1515829919112	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515829919687	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515829919688	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515829920426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515829929983	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515829930217	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829930716	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829954212	geckodriver	INFO	geckodriver 0.19.1
+1515829954216	geckodriver	INFO	Listening on 127.0.0.1:38567
+1515829955312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XvHRi11BIdlI"
+1515829955989	Marionette	INFO	Enabled via --marionette
+1515829958993	Marionette	INFO	Listening on port 35925
+1515829959034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515829959105	Marionette	DEBUG	Register listener.js for window 2147483649
+1515829959129	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515829960257	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515829960257	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515829960738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515829967541	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515829967783	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829968236	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515829968705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515830200651	geckodriver	INFO	geckodriver 0.19.1
+1515830200655	geckodriver	INFO	Listening on 127.0.0.1:57837
+1515830201754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.l6pCZtpVfudG"
+1515830202432	Marionette	INFO	Enabled via --marionette
+1515830205552	Marionette	INFO	Listening on port 45351
+1515830205569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515830205628	Marionette	DEBUG	Register listener.js for window 2147483649
+1515830205744	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515830206312	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515830206313	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515830206760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515830212180	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515830212415	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515830212875	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515830213303	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515830273995	geckodriver	INFO	geckodriver 0.19.1
+1515830274001	geckodriver	INFO	Listening on 127.0.0.1:55921
+1515830274110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.C7fbXcbFY5pL"
+1515830274772	Marionette	INFO	Enabled via --marionette
+1515830277674	Marionette	INFO	Listening on port 37205
+1515830277887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515830277969	Marionette	DEBUG	Register listener.js for window 2147483649
+1515830277986	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515830278530	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515830278531	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515830279054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515830284510	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515830301439	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515830926723	geckodriver	INFO	geckodriver 0.19.1
+1515830926727	geckodriver	INFO	Listening on 127.0.0.1:53241
+1515830927828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bd6Nu1ZR0Fka"
+1515830928511	Marionette	INFO	Enabled via --marionette
+1515830931644	Marionette	INFO	Listening on port 44357
+1515830931829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515830931895	Marionette	DEBUG	Register listener.js for window 2147483649
+1515830931914	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515830932548	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515830932551	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515830933091	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515830938089	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515830938420	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515830939052	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515830939717	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515831303293	geckodriver	INFO	geckodriver 0.19.1
+1515831303296	geckodriver	INFO	Listening on 127.0.0.1:46841
+1515831304397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RZ4ufCEfTwPB"
+1515831305031	Marionette	INFO	Enabled via --marionette
+1515831308210	Marionette	INFO	Listening on port 45919
+1515831308323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515831308382	Marionette	DEBUG	Register listener.js for window 2147483649
+1515831308400	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515831309013	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515831309014	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515831309489	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515831316068	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515831316351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515831316808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515831317252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515842794030	geckodriver	INFO	geckodriver 0.19.1
+1515842794034	geckodriver	INFO	Listening on 127.0.0.1:51581
+1515842795135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pPkSHN275RFo"
+1515842795762	Marionette	INFO	Enabled via --marionette
+1515842798754	Marionette	INFO	Listening on port 37575
+1515842798852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515842798934	Marionette	DEBUG	Register listener.js for window 2147483649
+1515842798950	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515842799925	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515842799926	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515842800407	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515842808853	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515843052299	geckodriver	INFO	geckodriver 0.19.1
+1515843052303	geckodriver	INFO	Listening on 127.0.0.1:42675
+1515843053401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OrbZOlCIhvvu"
+1515843054082	Marionette	INFO	Enabled via --marionette
+1515843057097	Marionette	INFO	Listening on port 45371
+1515843057118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515843057180	Marionette	DEBUG	Register listener.js for window 2147483649
+1515843057288	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515843059769	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515843059770	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515843060255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515843068199	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515843068440	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515843068661	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515843068881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515843097079	geckodriver	INFO	geckodriver 0.19.1
+1515843097082	geckodriver	INFO	Listening on 127.0.0.1:46009
+1515843098191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B6rBbs7XNK3k"
+1515843099003	Marionette	INFO	Enabled via --marionette
+1515843101983	Marionette	INFO	Listening on port 32999
+1515843102009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515843102069	Marionette	DEBUG	Register listener.js for window 2147483649
+1515843102096	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515843102603	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515843102603	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515843103083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515843110189	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515843110430	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515843110654	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515843110873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515843565151	geckodriver	INFO	geckodriver 0.19.1
+1515843565155	geckodriver	INFO	Listening on 127.0.0.1:47891
+1515843566252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uBPDjikOJLQr"
+1515843566982	Marionette	INFO	Enabled via --marionette
+1515843569867	Marionette	INFO	Listening on port 40401
+1515843570128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515843570202	Marionette	DEBUG	Register listener.js for window 2147483649
+1515843570224	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515843570804	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515843570804	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515843571254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515843575956	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515843576197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515843578422	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515843580649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515843943181	geckodriver	INFO	geckodriver 0.19.1
+1515843943185	geckodriver	INFO	Listening on 127.0.0.1:48091
+1515843944291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XOhH5QXxqU40"
+1515843944957	Marionette	INFO	Enabled via --marionette
+1515843947883	Marionette	INFO	Listening on port 41817
+1515843947910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515843947984	Marionette	DEBUG	Register listener.js for window 2147483649
+1515843948095	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515843948646	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515843948647	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515843949103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515843954059	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844033017	geckodriver	INFO	geckodriver 0.19.1
+1515844033020	geckodriver	INFO	Listening on 127.0.0.1:58307
+1515844034116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0mZWnbva8k3O"
+1515844034911	Marionette	INFO	Enabled via --marionette
+1515844037837	Marionette	INFO	Listening on port 36827
+1515844037935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515844037996	Marionette	DEBUG	Register listener.js for window 2147483649
+1515844038014	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515844038592	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515844038593	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515844039242	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844045307	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844127694	geckodriver	INFO	geckodriver 0.19.1
+1515844127697	geckodriver	INFO	Listening on 127.0.0.1:45889
+1515844128796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.897Umr68tEYb"
+1515844129467	Marionette	INFO	Enabled via --marionette
+1515844132426	Marionette	INFO	Listening on port 44561
+1515844132516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515844132574	Marionette	DEBUG	Register listener.js for window 2147483649
+1515844132587	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515844133136	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515844133136	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515844133613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844146938	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844182747	geckodriver	INFO	geckodriver 0.19.1
+1515844182751	geckodriver	INFO	Listening on 127.0.0.1:52431
+1515844183849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HvWgWGMP2lER"
+1515844184496	Marionette	INFO	Enabled via --marionette
+1515844187368	Marionette	INFO	Listening on port 44159
+1515844187478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515844187550	Marionette	DEBUG	Register listener.js for window 2147483649
+1515844187564	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515844188162	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515844188163	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515844188690	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844193929	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844194172	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844194389	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844194602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844194812	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844195027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844195243	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844195458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844195679	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844195892	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844196106	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844360607	geckodriver	INFO	geckodriver 0.19.1
+1515844360610	geckodriver	INFO	Listening on 127.0.0.1:47115
+1515844361713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uuMJgyjALfrG"
+1515844362406	Marionette	INFO	Enabled via --marionette
+1515844365560	Marionette	INFO	Listening on port 39189
+1515844365808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515844365871	Marionette	DEBUG	Register listener.js for window 2147483649
+1515844365899	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515844367501	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515844367502	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515844367950	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844374104	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844374346	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844375561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844376909	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844495868	geckodriver	INFO	geckodriver 0.19.1
+1515844495874	geckodriver	INFO	Listening on 127.0.0.1:44527
+1515844496990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ey9TXJTpwOQB"
+1515844497780	Marionette	INFO	Enabled via --marionette
+1515844500621	Marionette	INFO	Listening on port 45929
+1515844500806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515844500869	Marionette	DEBUG	Register listener.js for window 2147483649
+1515844500891	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515844501533	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515844501534	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515844501983	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844508698	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844508940	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844514286	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844606645	geckodriver	INFO	geckodriver 0.19.1
+1515844606648	geckodriver	INFO	Listening on 127.0.0.1:39335
+1515844607779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nDrRgOdjcAys"
+1515844608575	Marionette	INFO	Enabled via --marionette
+1515844611533	Marionette	INFO	Listening on port 45743
+1515844611672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515844611735	Marionette	DEBUG	Register listener.js for window 2147483649
+1515844611759	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515844612261	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515844612261	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515844612699	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844618326	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844618570	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844623949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844629242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844634484	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844693417	geckodriver	INFO	geckodriver 0.19.1
+1515844693421	geckodriver	INFO	Listening on 127.0.0.1:42145
+1515844694523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RDITmv5mhLaH"
+1515844695217	Marionette	INFO	Enabled via --marionette
+1515844698219	Marionette	INFO	Listening on port 34483
+1515844698250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515844698309	Marionette	DEBUG	Register listener.js for window 2147483649
+1515844698330	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515844698962	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515844698962	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515844699712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844705886	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844706136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844711363	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844716590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844721814	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844727044	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844732271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844737501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844742839	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844748132	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844753392	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844949577	geckodriver	INFO	geckodriver 0.19.1
+1515844949581	geckodriver	INFO	Listening on 127.0.0.1:42279
+1515844950679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2Cll8OY3piJN"
+1515844951364	Marionette	INFO	Enabled via --marionette
+1515844954456	Marionette	INFO	Listening on port 46391
+1515844954629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515844954712	Marionette	DEBUG	Register listener.js for window 2147483649
+1515844954732	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515844955309	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515844955309	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515844955773	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844964961	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515844965203	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844967431	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844969652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844971875	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844974105	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844976334	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844978561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844980786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844983010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515844985228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845020777	geckodriver	INFO	geckodriver 0.19.1
+1515845020781	geckodriver	INFO	Listening on 127.0.0.1:51929
+1515845021903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eujU8YHd9Jq3"
+1515845022691	Marionette	INFO	Enabled via --marionette
+1515845025561	Marionette	INFO	Listening on port 40551
+1515845025739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515845025797	Marionette	DEBUG	Register listener.js for window 2147483649
+1515845025821	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515845026403	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515845026403	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515845026916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515845034549	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515845034791	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845037023	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845039254	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845041478	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845043707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845045932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845048160	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845050395	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845052616	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845054837	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845109108	geckodriver	INFO	geckodriver 0.19.1
+1515845109111	geckodriver	INFO	Listening on 127.0.0.1:55267
+1515845110237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XpVKW8HVe5qc"
+1515845111007	Marionette	INFO	Enabled via --marionette
+1515845113990	Marionette	INFO	Listening on port 34545
+1515845114139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515845114200	Marionette	DEBUG	Register listener.js for window 2147483649
+1515845114216	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515845114801	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515845114802	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515845115277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515845124217	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515845124457	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845126826	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845129118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845131364	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845287196	geckodriver	INFO	geckodriver 0.19.1
+1515845287199	geckodriver	INFO	Listening on 127.0.0.1:33891
+1515845288322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XZNGhH7hiG20"
+1515845289130	Marionette	INFO	Enabled via --marionette
+1515845292423	Marionette	INFO	Listening on port 35499
+1515845292457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515845292549	Marionette	DEBUG	Register listener.js for window 2147483649
+1515845292587	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515845293267	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515845293268	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515845293919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515845300237	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.santostang.com/2017/03/02/hello-world/"
+1515845300493	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515845302792	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
